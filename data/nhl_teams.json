@@ -1,0 +1,346 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "team":"San Jose Sharks",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3831843,43.653226 ]
+    },
+    "properties": {
+    "team":"Toronto Maple Leafs",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/vrpqtw1421617080.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1207375,49.2827291 ]
+    },
+    "properties": {
+    "team":"Vancouver Canucks",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0368707,38.9071923 ]
+    },
+    "properties": {
+    "team":"Washington Capitals",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/u17iel1547157581.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8783689,42.88644679999999 ]
+    },
+    "properties": {
+    "team":"Buffalo Sabres",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/qrutxx1426461247.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6381787,35.7795897 ]
+    },
+    "properties": {
+    "team":"Carolina Hurricanes",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.990251,39.7392358 ]
+    },
+    "properties": {
+    "team":"Colorado Avalanche",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.79698789999999,32.7766642 ]
+    },
+    "properties": {
+    "team":"Dallas Stars",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0644422,42.32718149999999 ]
+    },
+    "properties": {
+    "team":"Detroit Red Wings",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "team":"New York Rangers",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/bez4251546192693.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.69719309999999,45.4215296 ]
+    },
+    "properties": {
+    "team":"Ottawa Senators",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/qurpwu1421616521.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.44062479999999 ]
+    },
+    "properties": {
+    "team":"Pittsburgh Penguins",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.19940419999999,38.6270025 ]
+    },
+    "properties": {
+    "team":"St. Louis Blues",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1398296,36.1699412 ]
+    },
+    "properties": {
+    "team":"Vegas Golden Knights",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/9w7peh1507632324.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.99879419999999,39.9611755 ]
+    },
+    "properties": {
+    "team":"Columbus Blue Jackets",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436849,34.0522342 ]
+    },
+    "properties": {
+    "team":"Los Angeles Kings",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/uvwtvx1421535024.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0937311,34.0489281 ]
+    },
+    "properties": {
+    "team":"Arizona Coyotes",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/wpxpsx1421868857.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0718831,51.04473309999999 ]
+    },
+    "properties": {
+    "team":"Calgary Flames",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/yqptxx1421869532.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.6858998,46.729553 ]
+    },
+    "properties": {
+    "team":"Minnesota Wild",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4056612,40.0583238 ]
+    },
+    "properties": {
+    "team":"New Jersey Devils",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/ssppey1547160174.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "team":"New York Islanders",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/kj8uh41546001378.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5436722,27.763383 ]
+    },
+    "properties": {
+    "team":"Tampa Bay Lightning",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "team":"Chicago Blackhawks",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9143012,33.8365932 ]
+    },
+    "properties": {
+    "team":"Anaheim Ducks",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/6g9t721547289240.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0588801,42.3600825 ]
+    },
+    "properties": {
+    "team":"Boston Bruins",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/vuspuq1421791546.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7816016,36.1626638 ]
+    },
+    "properties": {
+    "team":"Nashville Predators",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "team":"Philadelphia Flyers",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.13837439999999,49.895136 ]
+    },
+    "properties": {
+    "team":"Winnipeg Jets",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.25659499999999,26.1669711 ]
+    },
+    "properties": {
+    "team":"Florida Panthers",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.567256,45.5016889 ]
+    },
+    "properties": {
+    "team":"Montreal Canadiens",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4938229,53.5461245 ]
+    },
+    "properties": {
+    "team":"Edmonton Oilers",
+    "img":"https://www.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
+    }
+  }
+]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "travel_2",
+  "version": "1.0.0",
+  "main": "map.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "description": "",
+  "dependencies": {
+    "@deck.gl/mapbox": "^7.1.11"
+  }
+}
