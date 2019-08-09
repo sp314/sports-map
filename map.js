@@ -1,7 +1,7 @@
 const {MapboxLayer, ArcLayer, ScatterplotLayer, IconLayer} = deck;
 
 const COUNTY_DATA_URL = 'https://raw.githubusercontent.com/uber-common/deck.gl-data/master/examples/arc/counties.json';
-const NBA_TEAM_DATA_URL = 'https://raw.githubusercontent.com/sp314/sports_map/master/data/nba_matches.json'
+const NBA_TEAM_DATA_URL = 'https://raw.githubusercontent.com/sp314/sports_map/master/data/nba_teams.json'
 
 // migrate out
 const SOURCE_COLOR = [166, 3, 3];
