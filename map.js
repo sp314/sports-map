@@ -1,9 +1,7 @@
 const {MapboxLayer, ArcLayer, ScatterplotLayer, IconLayer} = deck;
 
 const COUNTY_DATA_URL = 'https://raw.githubusercontent.com/uber-common/deck.gl-data/master/examples/arc/counties.json';
-const NBA_TEAM_DATA_URL = 'https://raw.githubusercontent.com/sp314/sports_travel_map/master/data/nba_teams.json'
-const NFL_TEAM_DATA_URL = 'https://raw.githubusercontent.com/sp314/sports_travel_map/master/data/nfl_teams.json'
-const NHL_TEAM_DATA_URL = 'https://raw.githubusercontent.com/sp314/sports_travel_map/master/data/nhl_teams.json'
+const NBA_TEAM_DATA_URL = 'https://raw.githubusercontent.com/sp314/sports_map/master/data/nba_matches.json'
 
 // migrate out
 const SOURCE_COLOR = [166, 3, 3];
@@ -45,7 +43,7 @@ map.on('load', () => {
   // });
 
   d3.json(NBA_TEAM_DATA_URL).then(function(teams_json) {
-    loadTeams(teams_json, "nba")
+    loadTeams(teams_json);
   });
 });
 
@@ -56,7 +54,7 @@ map.on('load', () => {
 // });
 
 function renderTeams({teams}) {
-  teamsLayer = new MapboxLayer({
+  const teamsLayer = new MapboxLayer({
     type: IconLayer,
     id: 'nba_teams',
     pickable: true,
@@ -87,7 +85,7 @@ function loadTeams(data) {
     })
   })
 
-  renderTeams({teams})
+  renderTeams({teams});
 }
 
 function setTooltip(object, x, y) {
