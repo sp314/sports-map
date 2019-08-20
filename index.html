@@ -27,64 +27,14 @@
       position: absolute;
       top: 10;
       bottom: 0;
-      width: 100vw; 
+      width: 95vw; 
       height: 70vh;
-    }
-
-    .map-overlay {
-      font: 12px/20px 'San Francisco', sans-serif;
-      position: absolute;
-      width: 150px;
-      top: 10;
-      left: 20;
-      padding: 10px;
-      color: #d6d6d6;
-    }
-
-    .map-overlay .map-overlay-inner {
-      background-color: #505050;
-      box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
-      border-radius: 5px;
-      padding: 10px;
-      margin-bottom: 10px;
-    }
-
-    .map-overlay-inner fieldset {
-      border: none;
-      padding: 0;
-      margin: 0 0 10px;
-    }
-    
-    .map-overlay-inner fieldset:last-child {
-      margin: 0;
-    }
-    
-    .map-overlay-inner select {
-      width: 100%;
-    }
-    
-    .map-overlay-inner label {
-      display: block;
-      font-weight: bold;
-      margin: 0 0 5px;
     }
   </style>
 </head>
 
 <body>
   <div id="map" ></div>
-  <div class='map-overlay top'>
-    <div class='map-overlay-inner'>
-      <fieldset>
-        <label>Select Sports League</label>
-        <select id='league' name='layer'>
-          <option value='NBA'>NBA</option>
-          <option value='NFL'>NFL</option>
-          <option value='NHL'>NHL</option>
-        </select>
-      </fieldset>
-    </div>
-  </div>
   <div id="tooltip" style="position: absolute; z-index: 1; pointer-events: none;"></div>
 </body>
 <script type="text/javascript" src="map.js"></script>
